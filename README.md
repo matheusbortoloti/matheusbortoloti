@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matheus Bortoloti. I come from Brazil but I live in Germany where I work as software engineer for industrial automatic (PLC software).
+- 👋 Hi, I’m Matheus Bortoloti. I come from Brazil but I live in Germany where I work as software engineer for industrial automation and robotics (PLC software).
 - 👀 I’m interested in writing software for embedded systems using C/C++ and Ada
 - 🌱 I’m currently learning Ada and SPARK.
 - 💞️ I’m looking to collaborate on any embedded project using C/C++ or Ada/SPARK.
