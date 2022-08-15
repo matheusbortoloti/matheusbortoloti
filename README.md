@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matheus Bortoloti. I come from Brazil but I live in Germany where I work as an embedded software engineer in the field of apative optics. 
+- 👋 Hi, I’m Matheus Bortoloti. I come from Brazil but I live in Germany, where I work as an embedded software engineer in the field of adaptive optics. 
 - 👀 I’m interested in writing software for embedded systems using C/C++ and Ada
 - 🌱 I’m currently learning Ada and SPARK.
 - 💞️ I’m looking to collaborate on any embedded project using C/C++ or Ada/SPARK.
